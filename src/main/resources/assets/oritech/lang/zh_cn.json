@@ -47,7 +47,7 @@
   "advancements.oritech.ai.description": "获得一个超级AI芯片。天网？不只是智慧，而是无比智慧！",
   "advancements.oritech.unholy": "堕落之智",
   "advancements.oritech.unholy.description": "获得一个堕落智能。知识就是力量，但这个是别的东西！",
-  "advancements.oritech.steam_engine": "氤氲幻境",
+  "advancements.oritech.steam_engine": "奥瑞科技",
   "advancements.oritech.steam_engine.description": "驯化蒸汽之力！你已经把水转化成了能量，祈祷它不会进一步变为混乱的热点吧！",
   "button.oritech.input_mode_fill_left_to_right": "默认",
   "button.oritech.input_mode_fill_evenly": "均匀填充",
@@ -748,7 +748,7 @@
   "text.config.oritech-config.option.netherPortalRequiredSpeed": "下界传送门产生最小对撞能量",
   "text.config.oritech-config.option.blackHoleRequiredSpeed": "黑洞产生最小对撞能量",
   "text.config.oritech-config.section.blackHole": "黑洞",
-  "text.config.oritech-config.option.pullTimeMultiplier": "黑洞吸入时间倍率",
-  "text.config.oritech-config.option.pullRange": "黑洞吸入范围",
-  "text.config.oritech-config.option.idleWaitTicks": "黑洞空闲等待时间（以刻计）"
+  "text.config.oritech-config.option.pullTimeMultiplier": "黑洞撕扯频率",
+  "text.config.oritech-config.option.pullRange": "黑洞撕扯范围",
+  "text.config.oritech-config.option.idleWaitTicks": "黑洞空闲等待时间（单位：Tick）"
 }
